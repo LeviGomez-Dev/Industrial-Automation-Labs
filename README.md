@@ -6,8 +6,6 @@ This repository is a curated collection of technical projects, lab exercises, an
 It serves as a testament to my foundational logic in systems engineering, PLC programming, and industrial maintenance, which I am now applying to modern Software Development.
 
 ## 📁 What's inside?
-- **/PLC_Logic_Practices**: PDF reports and source files for various automation routines (Traffic light control, conveyor belts, etc.).
-- **/Schematics_and_Design**: Wiring diagrams and simulation board setups for industrial cabinets.
 - **/Coursework_Documentation**: Detailed "Memorias" explaining the step-by-step resolution of engineering problems.
 
 ## 🌟 Featured Skills Demonstrated
