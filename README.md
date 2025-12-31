@@ -6,7 +6,7 @@ This repository is a curated collection of technical projects, lab exercises, an
 It serves as a testament to my foundational logic in systems engineering, PLC programming, and industrial maintenance, which I am now applying to modern Software Development.
 
 ## 📁 What's inside?
-- **[Coursework_Documentation]**(https://github.com/LeviGomez-Dev/Industrial-Automation-Labs/tree/main/Documentation): Detailed "Memorias" explaining the step-by-step resolution of engineering problems.
+- **[Coursework_Documentation](https://github.com/LeviGomez-Dev/Industrial-Automation-Labs/tree/main/Documentation)**: Detailed "Memorias" explaining the step-by-step resolution of engineering problems.
 
 ## 🌟 Featured Skills Demonstrated
 - **State Machine Design:** Complex logic for sequential processes.
